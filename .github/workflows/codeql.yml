@@ -41,7 +41,7 @@ jobs:
         category: "/language:${{matrix.language}}"
 
     - name: 压缩文件
-      run: tar -cvf codeql_databases.tar.gz /home/runner/work/_temp/codeql_databases
+      run: tar -cvf codeql_databases.tar.gz /home/runner/work/_temp/codeql_databases/*
 
     - name: 上传结果
       uses: actions/upload-artifact@v3
