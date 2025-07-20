@@ -5,6 +5,11 @@ Java sec code is a very powerful and friendly project for learning Java vulnerab
 
 [中文文档](https://github.com/JoyChou93/java-sec-code/blob/master/README_zh.md) 😋
 
+## Recruitment
+
+[Alibaba-Security attack and defense/research（P5-P7）](https://github.com/JoyChou93/java-sec-code/wiki/Alibaba-Purple-Team-Job-Description)
+
+
 ## Introduce
 
 This project can also be called Java vulnerability code. 
@@ -205,12 +210,6 @@ Core developers : [JoyChou](https://github.com/JoyChou93), [liergou9981](https:/
 Other developers: [lightless](https://github.com/lightless233),  [Anemone95](https://github.com/Anemone95), [waderwu](https://github.com/waderwu). 
 
 
-## Donate
+## Support
 
-If you like the poject, you can donate to support me. With your support, I will be able to make `Java sec code` better 😎.
-
-### Alipay
-
-Scan the QRcode to support `Java sec code`.
-
-<img title="Alipay QRcode" src="https://aliyun-testaaa.oss-cn-shanghai.aliyuncs.com/alipay_qr.png" width="200">
+If you like the poject, you can star java-sec-code project to support me. With your support, I will be able to make `Java sec code` better 😎.
